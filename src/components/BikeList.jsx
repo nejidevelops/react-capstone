@@ -1,10 +1,8 @@
 import React from 'react';
-import { useDispatch, useSelector } from 'react-redux';
-import { fetchBikes } from '../redux/bike';
+import { useSelector } from 'react-redux';
 import HomeNavbar from './HomeNavbar';
 
 function BikeList() {
-  const dispatch = useDispatch();
   const state = useSelector((state) => state);
 
   console.log('first', state);
@@ -17,7 +15,6 @@ function BikeList() {
     <div>
       <HomeNavbar />
       <p>BikeList</p>
-      <button type="button" onClick={() => dispatch(fetchBikes())}>Fetch Bikes</button>
       <div className="grid gap-2 px-5 grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
         {
         state.bike.bikes.networks.map((e) => (
