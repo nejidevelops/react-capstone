@@ -1,11 +1,9 @@
-import HomeNavbar from './components/HomeNavbar';
-import PageNavbar from './components/PageNavbar';
+import BikeList from './components/BikeList';
 
 function App() {
   return (
     <div className="App">
-      <HomeNavbar />
-      <PageNavbar />
+      <BikeList />
     </div>
   );
 }
