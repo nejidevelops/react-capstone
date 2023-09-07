@@ -1,10 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap');
 
 :root {
-  --blue-light: #3498db;
-  --blue: #3498db;
-  --blue-medium: #2980b9;
-  --blue-dark: #4369b2;
+  --blue-light: rgba(255, 255, 255, 0.1);
+  --blue: #010615;
+  --blue-medium: #060c21;
+  --blue-dark: linear-gradient(235deg, #89ff00, #010615, #00bcd4);
   --contrast: #fbd918;
   --white: #fff;
   --black: #2b2827;
