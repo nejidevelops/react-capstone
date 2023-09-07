@@ -65,7 +65,7 @@ function Companies({ sector }) {
             <FontAwesomeIcon icon={faChevronLeft} />
           </NavLink>
         </div>
-        <div>Finance APP . LIST </div>
+        <div>Newton App</div>
         <div><FontAwesomeIcon icon={faGear} /></div>
       </header>
       <div className={companiesHeaderContainer}>
