@@ -21,7 +21,7 @@ function Sectors() {
     <section className="animated">
       <header>
         <div />
-        <div> Finance APP . Home </div>
+        <div>Newton App</div>
         <div><FontAwesomeIcon icon={faGear} /></div>
       </header>
       <div className={sector}>
