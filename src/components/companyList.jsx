@@ -19,7 +19,7 @@ function Companies({ sector }) {
   const { companies } = useSelector((state) => state.companies);
   const dispatch = useDispatch();
   const filterRef = useRef();
-  const { companiesHeaderContainer, companiesSearch, companiesContainer } = style;
+  const { companiesHeaderContainer, searchCompany, companiesContainer } = style;
 
   useEffect(() => {
     dispatch(fetchCompanies(sector));
@@ -73,7 +73,7 @@ function Companies({ sector }) {
         <div>{sector}</div>
       </div>
 
-      <section className={companiesSearch}>
+      <section className={searchCompany}>
         <FontAwesomeIcon icon={faMagnifyingGlass} />
         <input ref={filterRef} type="text" placeholder="search" onKeyDown={setFilterField} />
         <button type="button" onClick={setFilterFieldOnClick}>search</button>
