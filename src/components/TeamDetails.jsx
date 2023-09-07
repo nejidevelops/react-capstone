@@ -13,7 +13,27 @@ function TeamDetails() {
 
   return (
     <div>
-      <h2>{team.strTeam}</h2>
+      <img src={team.strTeamBadge} alt={team.strTeam} />
+      <h2>
+        Team Name:
+        {' '}
+        {team.strTeam}
+      </h2>
+      <h4>
+        Year Formed:
+        {' '}
+        {team.intFormedYear}
+      </h4>
+      <h4>
+        Stadium:
+        {' '}
+        {team.strStadium}
+      </h4>
+      <h4>
+        Stadium Capacity:
+        {' '}
+        {team.intStadiumCapacity}
+      </h4>
       <p>{team.strDescriptionEN}</p>
     </div>
   );
