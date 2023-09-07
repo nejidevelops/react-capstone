@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap');
+
+:root {
+  --blue-light: #3498db;
+  --blue: #3498db;
+  --blue-medium: #2980b9;
+  --blue-dark: #4369b2;
+  --contrast: #fbd918;
+  --white: #fff;
+  --black: #2b2827;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  font-family: 'Lato', sans-serif;
+  color: var(--white);
+  background-color: var(--blue);
+}
+
+header {
+  display: flex;
+  background-color: var(--blue);
+  line-height: 50px;
+}
+
+header > div:first-child,
+header > div:last-child {
+  width: 50px;
+  text-align: center;
+}
+
+header a {
+  color: var(--white);
+}
+
+header > div:nth-child(2) {
+  text-align: center;
+  width: calc(100% - 60px);
+}
+
+h2 {
+  display: block;
+  text-transform: uppercase;
+  font-size: 12px;
+  font-weight: 400;
+  padding-left: 20px;
+  line-height: 30px;
+  background-color: var(--blue);
+}
+
+h3 {
+  text-align: left;
+}
+
+.is-light {
+  background-color: var(--blue);
+}
+
+.is-dark {
+  background-color: var(--blue-medium);
+}
+
+.loading {
+  font-size: 30px;
+  padding: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+  gap: 20px;
+  line-height: 30px;
+}
+
+.loading > svg {
+  animation: spin infinite 5s linear;
+}
+
+@keyframes spin {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.animated {
+  animation: appear 0.5s linear;
+}
+
+@keyframes appear {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
+}
