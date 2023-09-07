@@ -15,6 +15,8 @@
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
+    - [ Video Demo ](#video-demo)
+    - [ Live Link ](#live-link)
   - [💻 Getting Started ](#-getting-started-)
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
@@ -51,6 +53,18 @@ This is the capstone project for react. It consumes an API, uses Redux as a stat
 
 - **Code Quality**
 - **SPAs**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Video Demo <a name="video-demo"></a>
+
+[Video Link](https://www.loom.com/share/fb3ffc0f2cdf484ca14c81fdc9b71ad9?sid=9f779eba-a553-48c5-b6e9-1188a3297481)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Live Link <a name="live-link"></a>
+
+[Live Link](https://project-branch--steady-zuccutto-9cd34f.netlify.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
