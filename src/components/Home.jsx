@@ -15,7 +15,7 @@ function Sectors() {
   }, [dispatch]);
 
   const isLight = [0, 3, 4, 7, 8];
-  const { sectorContainer, sectorsContainer } = style;
+  const { sector, sectorsDiv } = style;
 
   return (
     <section className="animated">
@@ -24,8 +24,8 @@ function Sectors() {
         <div> Finance APP . Home </div>
         <div><FontAwesomeIcon icon={faGear} /></div>
       </header>
-      <div className={sectorContainer}>
-        <section className={sectorsContainer}>
+      <div className={sector}>
+        <section className={sectorsDiv}>
           {
             sectors.map((sector, index) => {
               let className = '';
