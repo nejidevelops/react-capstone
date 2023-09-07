@@ -1,9 +1,13 @@
 import { configureStore } from '@reduxjs/toolkit';
-import bikeReducer from './bike';
+import sectorsReducer from './sectors/sectorsSlice';
+import companiesReducer from './companies/companiesSlice';
+import companyReducer from './company/companySlice';
 
 const store = configureStore({
   reducer: {
-    bike: bikeReducer,
+    sectors: sectorsReducer,
+    companies: companiesReducer,
+    company: companyReducer,
   },
 });
 
