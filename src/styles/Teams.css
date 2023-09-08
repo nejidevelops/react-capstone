@@ -1,12 +1,3 @@
-/* .teams {
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  padding: 0 6px;
-  gap: 0.5rem;
-  position: relative;
-}
- */
-
 .teams {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
