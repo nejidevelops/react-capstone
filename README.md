@@ -1,70 +1,337 @@
-# Getting Started with Create React App
+<a name="readme-top"></a>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<div align="center">
 
-## Available Scripts
+  <br/>
 
-In the project directory, you can run:
+  <h3><b>React Capstone Project</b></h3>
 
-### `npm start`
+</div>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+# 📗 Table of Contents
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- [📗 Table of Contents](#-table-of-contents)
+- [📖 capstone ](#-capstone-)
+  - [🛠 Built With ](#-built-with-)
+    - [Tech Stack ](#tech-stack-)
+    - [Key Features ](#key-features-)
+    - [ Video Demo ](#video-demo)
+    - [ Live Link ](#live-link)
+  - [💻 Getting Started ](#-getting-started-)
+    - [Prerequisites](#prerequisites)
+    - [Setup](#setup)
+    - [Install](#install)
+    - [Usage](#usage)
+    - [Run tests](#run-tests)
+    - [Deployment](#deployment)
+  - [👥 Authors ](#-authors-)
+  - [🔭 Future Features ](#-future-features-)
+  - [🤝 Contributing ](#-contributing-)
+  - [⭐️ Show your support ](#️-show-your-support-)
+  - [🙏 Acknowledgments ](#-acknowledgments-)
+  - [📝 License ](#-license-)
 
-### `npm test`
+# 📖Capstone Project<a name="about-project"></a>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+This is the capstone project for react. It consumes an API, uses Redux as a state management tool and React for the UI frontend.
 
-### `npm run build`
+## 🛠 Built With <a name="built-with"></a>
+- React
+- Redux
+- API
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Tech Stack <a name="tech-stack"></a>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://react.dev/">React JS</a></li>
+  </ul>
+</details>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Key Features <a name="key-features"></a>
 
-### `npm run eject`
+- **Code Quality**
+- **SPAs**
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Video Demo <a name="video-demo"></a>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+[Video Link](https://www.loom.com/share/fb3ffc0f2cdf484ca14c81fdc9b71ad9?sid=9f779eba-a553-48c5-b6e9-1188a3297481)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Learn More
+### Live Link <a name="live-link"></a>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+[Live Link](<a name="readme-top"></a>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+<div align="center">
 
-### Code Splitting
+  <br/>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+  <h3><b>React Capstone Project</b></h3>
 
-### Analyzing the Bundle Size
+</div>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+# 📗 Table of Contents
 
-### Making a Progressive Web App
+- [📗 Table of Contents](#-table-of-contents)
+- [📖 capstone ](#-capstone-)
+  - [🛠 Built With ](#-built-with-)
+    - [Tech Stack ](#tech-stack-)
+    - [Key Features ](#key-features-)
+    - [ Video Demo ](#video-demo)
+    - [ Live Link ](#live-link)
+  - [💻 Getting Started ](#-getting-started-)
+    - [Prerequisites](#prerequisites)
+    - [Setup](#setup)
+    - [Install](#install)
+    - [Usage](#usage)
+    - [Run tests](#run-tests)
+    - [Deployment](#deployment)
+  - [👥 Authors ](#-authors-)
+  - [🔭 Future Features ](#-future-features-)
+  - [🤝 Contributing ](#-contributing-)
+  - [⭐️ Show your support ](#️-show-your-support-)
+  - [🙏 Acknowledgments ](#-acknowledgments-)
+  - [📝 License ](#-license-)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+# 📖Capstone Project<a name="about-project"></a>
 
-### Advanced Configuration
+This is the capstone project for react. It consumes an API, uses Redux as a state management tool and React for the UI frontend.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## 🛠 Built With <a name="built-with"></a>
+- React
+- Redux
+- API
+
+### Tech Stack <a name="tech-stack"></a>
+
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://react.dev/">React JS</a></li>
+  </ul>
+</details>
+
+### Key Features <a name="key-features"></a>
+
+- **Code Quality**
+- **SPAs**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Video Demo <a name="video-demo"></a>
+
+[Video Link](https://www.loom.com/share/fb3ffc0f2cdf484ca14c81fdc9b71ad9?sid=9f779eba-a553-48c5-b6e9-1188a3297481)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Live Link <a name="live-link"></a>
+
+[Live Link](https://football-project--stirring-faun-926a1f.netlify.app/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+
+
+### Prerequisites
+
+In order to run this project you need:
+
+- You need to have NodeJS installed
+- A Web Browser (Google Chrome, Firefox, etc)
+- A Code Editor (Notepad++, VSCode, etc)
+
+### Setup
+
+Clone this repository to your desired folder:
+
+```
+git clone your link repo https://github.com/mohammadnewton/react-capstone.git
+
+cd react-capstone
+```
+
+### Install
+
+Install this project with:
+
+```
+npm install
+```
+
+### Usage
+
+To run the project, execute the following command:
+
+``npm start``
+
+### Run tests
+
+To run tests, run the following command:
+
+- npx eslint "**/*.{js,jsx}"
+- npx stylelint "**/*.{css,scss}"
 
 ### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+You can deploy this project using:
+- Netlify
+- Vercel
+- Render
+- Railway
+- gh-pages
 
-### `npm run build` fails to minify
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## 👥 Authors <a name="authors"></a>
+
+👤 **Newton Ombese**
+
+- GitHub: [@newtonOmbese](https://github.com/mohammadnewton)
+- Twitter: [@NewtonOmbese](https://twitter.com/mohanewto200)
+- LinkedIn: [@newtonOmbese](https://www.linkedin.com/in/mohammad-newton-ombese-570862210/)
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- [ ] **Adding more pages**
+- [ ] **FrontEnd Framework implementation**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/mohammadnewton/react-capstone/issues).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## ⭐️ Show your support <a name="support"></a>
+
+If you like this project give me a star.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+I would like to thank Microverse.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 📝 License <a name="license"></a>
+
+
+This project is [MIT](./LICENSE) licensed.
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+
+
+### Prerequisites
+
+In order to run this project you need:
+
+- You need to have NodeJS installed
+- A Web Browser (Google Chrome, Firefox, etc)
+- A Code Editor (Notepad++, VSCode, etc)
+
+### Setup
+
+Clone this repository to your desired folder:
+
+```
+git clone your link repo https://github.com/mohammadnewton/react-capstone.git
+
+cd react-capstone
+```
+
+### Install
+
+Install this project with:
+
+```
+npm install
+```
+
+### Usage
+
+To run the project, execute the following command:
+
+``npm start``
+
+### Run tests
+
+To run tests, run the following command:
+
+- npx eslint "**/*.{js,jsx}"
+- npx stylelint "**/*.{css,scss}"
+
+### Deployment
+
+You can deploy this project using:
+- Netlify
+- Vercel
+- Render
+- Railway
+- gh-pages
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 👥 Authors <a name="authors"></a>
+
+👤 **Newton Ombese**
+
+- GitHub: [@newtonOmbese](https://github.com/mohammadnewton)
+- Twitter: [@NewtonOmbese](https://twitter.com/mohanewto200)
+- LinkedIn: [@newtonOmbese](https://www.linkedin.com/in/newton-ombese-570862210/)
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- [ ] **Adding more pages**
+- [ ] **FrontEnd Framework implementation**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/mohammadnewton/react-capstone/issues).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## ⭐️ Show your support <a name="support"></a>
+
+If you like this project give me a star.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+I would like to thank Microverse.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 📝 License <a name="license"></a>
+
+
+This project is [MIT](./LICENSE) licensed.
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
