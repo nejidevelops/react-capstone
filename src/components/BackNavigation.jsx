@@ -7,7 +7,7 @@ import '../styles/BackNavigation.css';
 
 function BackNavigation() {
   return (
-    <header className="team-detail-header">
+    <header data-testid="back-navigation" className="team-detail-header">
       <Link to="/"><AiOutlineLeft /></Link>
       <img src={logo} alt="la liga logo" />
       <AiFillSetting />
