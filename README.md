@@ -124,7 +124,7 @@ This is the capstone project for react. It consumes an API, uses Redux as a stat
 
 ### Video Demo <a name="video-demo"></a>
 
-[Video Link](https://www.loom.com/share/fb3ffc0f2cdf484ca14c81fdc9b71ad9?sid=9f779eba-a553-48c5-b6e9-1188a3297481)
+[Video Link](https://www.loom.com/share/36ccb36709224b2ba879bc5bfc76cb63?sid=d50db147-b8c9-44eb-bf1d-f2bd069e3512)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
