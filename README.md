@@ -68,8 +68,6 @@ This is the capstone project for react. It consumes an API, uses Redux as a stat
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-
-
 ### Prerequisites
 
 In order to run this project you need:
@@ -154,7 +152,7 @@ If you like this project give me a star.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Microverse.
+I would like to give credit to [Nelson Sakwa](https://www.behance.net/sakwadesignstudio) the [author of the original design](https://www.behance.net/gallery/31579789/Ballhead-App-(Free-PSDs)), as required by the [Creative Commons License](https://creativecommons.org/licenses/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
