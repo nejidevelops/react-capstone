@@ -1,5 +1,3 @@
-<a name="readme-top"></a>
-
 <div align="center">
 
   <br/>
@@ -15,6 +13,8 @@
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
+    - [ Video Demo ](#video-demo)
+    - [ Live Link ](#live-link)
   - [💻 Getting Started ](#-getting-started-)
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
@@ -54,9 +54,19 @@ This is the capstone project for react. It consumes an API, uses Redux as a stat
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+### Video Demo <a name="video-demo"></a>
+
+[Video Link](https://www.loom.com/share/36ccb36709224b2ba879bc5bfc76cb63?sid=d50db147-b8c9-44eb-bf1d-f2bd069e3512)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Live Link <a name="live-link"></a>
+
+[Live Link](https://football-project--stirring-faun-926a1f.netlify.app/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## 💻 Getting Started <a name="getting-started"></a>
-
-
 
 ### Prerequisites
 
@@ -114,7 +124,7 @@ You can deploy this project using:
 
 - GitHub: [@newtonOmbese](https://github.com/mohammadnewton)
 - Twitter: [@NewtonOmbese](https://twitter.com/mohanewto200)
-- LinkedIn: [@newtonOmbese](https://www.linkedin.com/in/newton-ombese-570862210/)
+- LinkedIn: [@newtonOmbese](https://www.linkedin.com/in/mohammad-newton-ombese-570862210/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -142,7 +152,7 @@ If you like this project give me a star.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Microverse.
+I would like to give credit to [Nelson Sakwa](https://www.behance.net/sakwadesignstudio) the [author of the original design](https://www.behance.net/gallery/31579789/Ballhead-App-(Free-PSDs)), as required by the [Creative Commons License](https://creativecommons.org/licenses/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
