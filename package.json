@@ -15,7 +15,7 @@
     "react-read-more-read-less": "^1.0.7",
     "react-redux": "^8.1.2",
     "react-responsive-carousel": "^3.2.23",
-    "react-router-dom": "^6.15.0",
+    "react-router-dom": "^6.23.1",
     "react-scripts": "5.0.1",
     "redux-logger": "^3.0.6",
     "redux-mock-store": "^1.5.4",
